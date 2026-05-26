@@ -411,4 +411,4 @@ Install all of the following via Arduino IDE Library Manager:
 
 ---
 
-*Built for ISRO IN-Space Rocketry Challenge 2025.*
+*Built for ISRO IN-Space Rocketry Challenge 2025 (Team ARKA - Chaitanya ASTRA - CBIT Hyderabad).*
