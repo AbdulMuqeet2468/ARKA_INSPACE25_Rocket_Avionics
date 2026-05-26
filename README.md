@@ -5,6 +5,17 @@
 
 ---
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/96aabbf9-ee77-4deb-b326-e04f4cc41300" />
+
+> **A.R.K.A Rocket**
+
+
+---
+
+<img width="1599" height="720" alt="Image" src="https://github.com/user-attachments/assets/8d1a47c0-18d0-41c4-830c-957f3df8f3a5" />
+
+> **Avionics Bay**
+
 ## File Structure
 
 ```
